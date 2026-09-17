@@ -114,9 +114,9 @@ else:
         column_config={
             'quantity': st.column_config.NumberColumn(
                             '판매량',
-                                 format='%,원'
+                            format='%,d개'
         ),
             'sales': st.column_config.NumberColumn(
             '매출',
-            format='%,d개'
+            format='%,d원'
             )})
