@@ -7,7 +7,7 @@ primaryColor = "#AAD3FF"
 backgroundColor = "#041E42"
 
 # Background color used for most interactive widgets.
-secondaryBackgroundColor = "#C0C0C0"
+secondaryBackgroundColor = "#FF69B4"
 
 # Color used for almost all text.
 textColor = "#C0C0C0"
